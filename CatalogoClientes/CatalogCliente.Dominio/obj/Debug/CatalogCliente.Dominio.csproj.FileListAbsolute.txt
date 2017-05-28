@@ -1,0 +1,10 @@
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\CatalogCliente.Dominio.dll.config
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\CatalogCliente.Dominio.dll
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\CatalogCliente.Dominio.pdb
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\obj\Debug\CatalogCliente.Dominio.dll
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\obj\Debug\CatalogCliente.Dominio.pdb
+C:\Users\Emanuel\Documents\GitHub\Macoratti\CatalogoClientes\CatalogCliente.Dominio\obj\Debug\CatalogCliente.Dominio.csprojResolveAssemblyReference.cache
