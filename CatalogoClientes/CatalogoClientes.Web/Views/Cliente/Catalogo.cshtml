@@ -20,6 +20,12 @@
 </div>
 <div>
 	@*<label for="txtTitulos">Titulos: </label><input type="text" id="txtTitulos" />*@
+	<input type="text" name="inputId" id="inputId">
+	<input type="button" name="mudareadyTrue" id="mudareadyTrue" value="Não pode escrever">
+	<input type="button" name="mudareadyFalse" id="mudareadyFalse" value="Pode escrever">||
+	<input type="button" name="enableTrue" id="enableTrue" value="Desabilite">
+	<input type="button" name="enableFalse" id="enableFalse" value="Habilite">
+	
 </div>
 <table class="table">
 	<tr>
@@ -145,6 +151,37 @@
 
 		});
 
+		$(document).ready(function () {
+			$('#mudareadyFalse').click(function () {
+				$('#inputId').attr('readonly', false);
+			});
+		});
 
+		$(document).ready(function () {
+			$('#mudareadyTrue').click(function () {
+				$('#inputId').attr('readonly', true);
+			});
+		});
+
+
+		$(document).ready(function () {
+			$('#enableFalse').click(function () {
+				$('#inputId').attr('disabled', false);
+				$('#inputId').prop('title', 'disabl false');
+			});
+		});
+
+		$(document).ready(function () {
+			$('#enableTrue').click(function () {
+				$('#inputId').prop('disabled', true);
+				$('#inputId').prop('title', 'disabl true');
+			});
+		});
+
+		//function Habilitarenable()
+		//{
+		//	$('#inputId').attr('disabled', true);
+		//	//$(':input[name="inputId"]').prop('disabled', false);
+		//}
 
 </script>
